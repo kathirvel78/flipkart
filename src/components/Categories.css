@@ -1,0 +1,16 @@
+.categories {
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.category img {
+  display: block;
+  margin: 0 auto;
+}
+
+.category p {
+  text-align: center;
+}
